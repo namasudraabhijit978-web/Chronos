@@ -1,1 +1,2 @@
-# Chronos
+Chronos Authenticator
+​Chronos is a high-performance, open-source multi-factor authentication application designed for maximum security and scalability. Built on a clean, modular architecture, it provides an industry-standard implementation of TOTP and HOTP protocols with hardware-backed encryption
